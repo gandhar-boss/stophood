@@ -29,9 +29,9 @@
 # arduino
 # Copy
 # Edit
-# VITE vX.X.X  ready in xxx ms
+# VITE vO.O.O  ready in ooo ms
 
-# ➜  Local:   http://localhost:5173/   # CLICK THIS LINK (ctrl + click )
+# ➜  Local:  its link given you code are run  # CLICK THIS LINK (ctrl + click )
 # Open that link in your browser.
 
 
